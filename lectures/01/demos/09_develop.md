@@ -5,7 +5,7 @@
 Examples for small everyday operations that can be performed via copilot.
 
 
-## CSS Selectors  
+## 01. CSS Selectors  
 
 Task: There is a need to style every third li element in a list with the id #MY_LIST.The list elements should have a lightblue background and dashed border. The border color should be red.  
 
