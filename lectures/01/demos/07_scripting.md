@@ -2,7 +2,7 @@
 
 # Scripting with Copilot
 
-Example for small everyday operations that can be performed quickly.
+Examples for small everyday operations that can be performed via copilot.
 
 
 ## 1. Refactor folder structure
