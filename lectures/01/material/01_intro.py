@@ -9,7 +9,7 @@ def calculate_average(a, b):
     """
     return (a + b) / 2	
 
-# autocompletion varies according to contex (different parameters)
+# autocompletion varies according to context (different parameters)
 def calculate_average_args(*args):
     """
     Calculates the average of a list of numbers.
